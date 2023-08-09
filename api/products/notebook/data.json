@@ -1,0 +1,20 @@
+{
+    "id": "notebook",
+    "name": "Notebook",
+    "price": 2000,
+    "description": "Eiusmod nulla do anim pariatur nostrud qui eu non excepteur.",
+    "stock": 12,
+    "img": "./api/products/notebook/notebook-foto.jpg",
+    "reviews": [
+        {
+            "name": "John",
+            "stars": 5,
+            "description": "It's really a nice notebook for work!"
+        },
+        {
+            "name": "Elizabeth",
+            "stars": 4,
+            "description": "The notebook helped a lot on my college but it's a bit heavy for carring."
+        }
+    ]
+}
